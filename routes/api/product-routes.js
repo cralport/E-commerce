@@ -16,7 +16,7 @@ router.get('/', (req, res) => {
       },
       {
         model: Tag,
-        attributes: ['tag-name']
+        attributes: ['tag_name']
       }
     ]
   })
