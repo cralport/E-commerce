@@ -18,7 +18,7 @@ For this application the user will have to install a few packages using:
 
 ```npm install sequelize```
 
-To run the program the use will also have to pull the database up from MySql by typing ```mysql -u root -p``` in the terminal then selecting the proper database, in this case ecommerce_db, by using the commands ```show databases;```, then ```use database ecommerce_db```, followed by ```source db/schemal.sql```.  Once back in the terminal to populate the database the user will need to run the seeds file by typing in ```npm run seeds``. 
+To run the program the use will also have to pull the database up from MySql by typing ```mysql -u root -p``` in the terminal then selecting the proper database, in this case ecommerce_db, by using the commands ```show databases;```, then ```use database ecommerce_db```, followed by ```source db/schemal.sql```.  Once back in the terminal to populate the database the user will need to run the seeds file by typing in ```npm run seeds```. 
 
 ## Usage 
 
