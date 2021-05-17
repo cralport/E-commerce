@@ -39,3 +39,6 @@ Final video showing POST, PUT, and DELETE routes working in all folders.
 ## Questions
 
 For any questions regarding this project email me at: cralport@gmail.com or contact me at my GitHub Page: http://github.com/cralport
+
+The link for this repository is https://github.com/cralport/E-commerce
+
